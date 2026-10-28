@@ -1,6 +1,6 @@
 # Syed Saad Hamdani
 
-### ☁️ Cloud Engineer | 🤖 AI/ML Enthusiast | 🔐 Cybersecurity | 💻 Software Developer
+### ☁️ Cloud Engineer | 🤖 AI/ML | 🔐 Cybersecurity | 💻 Software Developer
 
 [LinkedIn](https://www.linkedin.com/in/syed-saad-munir/)
 
