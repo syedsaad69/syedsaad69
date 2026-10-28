@@ -4,9 +4,9 @@
 
 [LinkedIn](https://www.linkedin.com/in/syed-saad-munir/)
 
-I am a Computer Science graduate passionate about building **secure, scalable cloud applications** and applying **AI and machine learning** to practical problems. My experience spans cloud engineering, backend development, infrastructure automation, DevOps, and application security. I especially enjoy projects at the intersection of **cloud, AI, and cybersecurity**.
+Tech enthusiast and passionate about building **secure, scalable cloud applications** and applying **AI and machine learning** to practical problems. My experience spans cloud engineering, backend development, infrastructure automation, DevOps, and application security. I especially enjoy projects at the intersection of **cloud, AI, and cybersecurity**.
 
----
+--
 
 ## 🚀 Tech Stack Highlights
 
@@ -47,13 +47,16 @@ I am a Computer Science graduate passionate about building **secure, scalable cl
 
 ---
 
-## 💼 Experience
+## 💡 Soft Skills
 
-### Cloud Engineer — Platform Applications & Security | Wedding Alley
-- Built and maintained cloud applications and services with an emphasis on reliability and performance.
-- Worked with AWS infrastructure, IAM, RBAC, secrets management, and secure deployment practices.
-- Automated deployment workflows using GitHub Actions, AWS CodePipeline, and Terraform.
-- Supported databases, monitoring, troubleshooting, and cross-functional delivery.
+- 🗣️ **Communication & Teamwork** – Effective communication, active listening, and collaboration with cross-functional teams.
+- 🧠 **Problem-Solving & Critical Thinking** – Strong analytical mindset with the ability to troubleshoot complex technical challenges and develop efficient solutions.
+- ⏳ **Time Management & Organization** – Prioritizing tasks, meeting deadlines, and managing multiple projects efficiently.
+- 🚀 **Adaptability & Continuous Learning** – Quick to learn new technologies, frameworks, and tools while adapting to evolving industry trends.
+- 🎯 **Self-Motivation & Initiative** – Proactive in exploring emerging technologies, taking ownership of responsibilities, and continuously improving technical expertise.
+- 🤝 **Collaboration & Teamwork** – Experience working with development teams, sharing knowledge, and contributing to collaborative projects.
+- 👨‍💼 **Leadership & Project Ownership** – Taking initiative in project planning, coordinating tasks, and driving ideas from concept to implementation.
+- 🔍 **Attention to Detail** – Focused on writing clean, maintainable code, identifying potential issues, and delivering high-quality solutions.
 
 ---
 
