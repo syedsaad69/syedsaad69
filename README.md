@@ -36,16 +36,7 @@ Tech enthusiast and passionate about building **secure, scalable cloud applicati
 
 ---
 
-## 👨‍💻 About Me
 
-- 🔭 **I'm currently working on:** Secure cloud-native applications, AI-powered systems, and automation workflows.
-- 👯 **I'm looking to collaborate on:** Open-source cloud, AI/ML, cybersecurity, DevOps, and backend projects.
-- 🤝 **I'm looking for help with:** Advanced MLOps, cloud-native architecture, Kubernetes, and AI security research.
-- 🌱 **I'm currently learning:** Deeper concepts in generative AI, distributed systems, cloud security, and production-grade ML deployment.
-- 💬 **Ask me about:** Python, AWS, Azure, GCP, Terraform, Docker, CI/CD, REST APIs, RAG, LangGraph, and secure cloud deployments.
-- ⚡ **Fun fact:** I love combining AI, cloud infrastructure, and cybersecurity to turn complex ideas into practical systems.
-
----
 
 ## 💡 Soft Skills
 
