@@ -6,7 +6,6 @@
 
 Tech enthusiast and passionate about building **secure, scalable cloud applications** and applying **AI and machine learning** to practical problems. My experience spans cloud engineering, backend development, infrastructure automation, DevOps, and application security. I especially enjoy projects at the intersection of **cloud, AI, and cybersecurity**.
 
---
 
 ## 🚀 Tech Stack Highlights
 
